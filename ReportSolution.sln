@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ReportCreationPractise", "Report Project1\ReportCreationPractise.rptproj", "{37E7258E-8956-4219-997A-4DCF1474C2E9}"
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ReportDevelopmentPractise", "ReportDevelopmentPractise\ReportDevelopmentPractise.rptproj", "{A3C2ACAE-0E78-4891-B754-488BC245E8A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,14 +12,14 @@ Global
 		Release|Default = Release|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{37E7258E-8956-4219-997A-4DCF1474C2E9}.Debug|Default.ActiveCfg = Debug
-		{37E7258E-8956-4219-997A-4DCF1474C2E9}.Debug|Default.Build.0 = Debug
-		{37E7258E-8956-4219-997A-4DCF1474C2E9}.Debug|Default.Deploy.0 = Debug
-		{37E7258E-8956-4219-997A-4DCF1474C2E9}.DebugLocal|Default.ActiveCfg = DebugLocal
-		{37E7258E-8956-4219-997A-4DCF1474C2E9}.DebugLocal|Default.Build.0 = DebugLocal
-		{37E7258E-8956-4219-997A-4DCF1474C2E9}.Release|Default.ActiveCfg = Release
-		{37E7258E-8956-4219-997A-4DCF1474C2E9}.Release|Default.Build.0 = Release
-		{37E7258E-8956-4219-997A-4DCF1474C2E9}.Release|Default.Deploy.0 = Release
+		{A3C2ACAE-0E78-4891-B754-488BC245E8A4}.Debug|Default.ActiveCfg = Debug
+		{A3C2ACAE-0E78-4891-B754-488BC245E8A4}.Debug|Default.Build.0 = Debug
+		{A3C2ACAE-0E78-4891-B754-488BC245E8A4}.Debug|Default.Deploy.0 = Debug
+		{A3C2ACAE-0E78-4891-B754-488BC245E8A4}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{A3C2ACAE-0E78-4891-B754-488BC245E8A4}.DebugLocal|Default.Build.0 = DebugLocal
+		{A3C2ACAE-0E78-4891-B754-488BC245E8A4}.Release|Default.ActiveCfg = Release
+		{A3C2ACAE-0E78-4891-B754-488BC245E8A4}.Release|Default.Build.0 = Release
+		{A3C2ACAE-0E78-4891-B754-488BC245E8A4}.Release|Default.Deploy.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
