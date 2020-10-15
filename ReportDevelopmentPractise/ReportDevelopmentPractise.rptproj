@@ -50,6 +50,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Report Include="LandonHotel.rdl" />
+    <Report Include="LandOnHotelEmployeeDetail.rdl" />
     <Report Include="Template.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
